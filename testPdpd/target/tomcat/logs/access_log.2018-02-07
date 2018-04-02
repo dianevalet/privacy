@@ -1,0 +1,4 @@
+127.0.0.1 - - [07/Feb/2018:11:26:14 +0100] "GET /rest/hello HTTP/1.1" 200 30 http-bio-8080-exec-1 241
+127.0.0.1 - - [07/Feb/2018:11:26:14 +0100] "GET /favicon.ico HTTP/1.1" 404 973 http-bio-8080-exec-3 13
+0:0:0:0:0:0:0:1 - - [07/Feb/2018:13:43:58 +0100] "GET /rest/hello/home HTTP/1.1" 200 113 http-bio-8080-exec-1 1085
+0:0:0:0:0:0:0:1 - - [07/Feb/2018:13:43:58 +0100] "GET /favicon.ico HTTP/1.1" 404 973 http-bio-8080-exec-4 11

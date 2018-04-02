@@ -1,0 +1,19 @@
+CREATE TABLE adult (
+    id int NOT NULL AUTO_INCREMENT
+    age                 integer,
+    workclass          varchar(50),
+    fnlwgt             integer,
+	education          varchar(50),
+    education_num      integer,
+    marital_status     varchar(50),
+    occupation         varchar(50),
+	relationship       varchar(40),
+	race               varchar(40),
+	sex                varchar(40),
+	capital_gain       integer,
+	capital_loss       integer,
+	hours_per_week     integer,
+    native_country     varchar(50),
+    salary             varchar(50),
+PRIMARY KEY (id)
+);

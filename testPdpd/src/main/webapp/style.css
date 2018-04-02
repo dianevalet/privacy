@@ -1,0 +1,88 @@
+header{
+	text-align: center;
+}
+body.body-color{
+	background: #eee
+}
+footer{
+	text-align:center;
+}
+.content{
+ 	background-color: white;
+ 	padding-top: 25px;
+    padding-bottom: 25px;
+ }
+ .content-index{
+ 	    margin-top: 70px;
+    	margin-bottom: 70px;
+ }
+
+ .content-index 
+{
+	/*border: 1px solid #d9edf7;*/
+    padding: 98px;
+    padding-top: 42px;
+  /*  padding-bottom: 366px;*/
+   padding-bottom: 15px;
+    margin: auto;
+   /* background: #e4e1e1;*/
+    width: 70%;
+}
+.content h2{
+	 font-size: 25px;
+}
+
+ .content-index   .comparer{
+ 		text-align:center;
+ }
+  .content-index    .button-index{
+	  	margin-top: 40px;
+	    margin-bottom: 40px;
+	    width: 100%;
+  }
+   .content-index .index-right{
+   		text-align: right;
+   }
+   
+h4,
+h3{
+  		    text-align: center;
+  }
+ form  .ajoutform input{
+  	width: 100%;
+    padding-left: 10px;
+    height: 34px;
+    padding: 6px 12px;
+    font-size: 14px;
+    line-height: 1.42857143;
+    color: #555;
+    background-color: #fff;
+    background-image: none;
+    border: 1px solid #ccc;
+    border-radius: 4px;
+  }
+   form  .ajoutform{
+  	 margin-bottom: 18px;
+   }
+    form  {
+	   	margin-top: 10px;
+	    border: 1px solid #c9d2c9;
+	    padding: 15px;
+	    border-radius: 8px;
+    }
+    .alerte{
+    	color: red;
+    }
+    
+    .submit-ajout input{
+    	width:23%;
+    }
+    .table{
+	   	border: 1px solid rgba(0,0,0,.25);
+	    border-radius: 5px;
+	    margin-top: 25px;
+    }
+    thead th,
+    tbody td{
+    	width:50%;
+    }
